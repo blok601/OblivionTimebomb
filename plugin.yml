@@ -1,0 +1,11 @@
+name: Timebomb
+version: 1.0
+main: me.blok601.tb.Main
+author: blok601
+description: Timebomb Plugin
+commands:
+  timebomb:
+    description: Timebomb commands
+permissions:
+  oblivion.timebomb:
+    description: Timebomb permissions
